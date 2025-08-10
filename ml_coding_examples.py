@@ -1,7 +1,6 @@
 """
 This is a sampling of code work as I go through Laurence Moroney book AI-and-ML-for-Coders
 
-My plan is to just add functions for each chapter
 """
 import numpy as np
 import pandas as pd
