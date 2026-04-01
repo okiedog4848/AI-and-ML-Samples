@@ -1,1 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
+# Data files (we commit small SQLite for simplicity, but ignore large ones)
+data/*.db
+data/*.sqlite
+data/*.csv
+*.parquet
+
+# Environment variables
+.env
+*.env
+
+# Streamlit & local dev
+.streamlit/
+*.streamlit
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
