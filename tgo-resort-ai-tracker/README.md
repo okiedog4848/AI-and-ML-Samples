@@ -2,7 +2,7 @@
 
 An **AI-augmented ETL pipeline** that automatically scrapes property listings from [The Great Outdoors Resort](https://www.tgoresort.com/properties/), parses messy plain-text data using LLMs, detects weekly changes (new listings, removed listings, price changes), tracks historical metrics, and displays everything in a live dashboard.
 
-This project demonstrates real-world **AI ETL / Data Engineering skills** — exactly the kind of work needed for modern data migration and AI-powered platforms like PRISM.
+This project demonstrates real-world **AI ETL / Data Engineering skills** — exactly the kind of work needed for modern data migration and AI-powered platforms.
 
 ## Project Goals
 - Scrape weekly property listings from a static, inconsistently formatted real-estate page.
