@@ -29,7 +29,7 @@ This project demonstrates real-world **AI ETL / Data Engineering skills** — ex
 - Human-in-the-loop ready architecture
 - Production deployment with scheduling, logging, and a public dashboard
 
-This project shows I can move from manual Python scripts (my current PRISM work) to designing reliable **AI-powered data pipelines** that reduce manual effort while improving accuracy.
+This project shows I can move from manual Python scripts to designing reliable **AI-powered data pipelines** that reduce manual effort while improving accuracy.
 
 ## Live Dashboard
 (Will be added once deployed on Streamlit Community Cloud)
