@@ -39,3 +39,18 @@ This project shows I can move from manual Python scripts to designing reliable *
 - Next: Multi-agent change detection + Streamlit UI
 
 ## Folder Structure
+tgo-resort-ai-tracker/
+├── prompts/              # Prompt library for parsing & cleaning
+├── agents/               # CrewAI / LangGraph agents
+├── data/                 # SQLite database + weekly snapshots
+├── notebooks/            # Experimentation
+├── streamlit_app.py      # Live dashboard
+├── scraper.py
+├── requirements.txt
+└── .github/workflows/weekly-scrape.yml
+
+
+---
+
+Made with ❤️ as part of my upskilling journey into **AI-Augmented Data Engineering** (2026).
+
