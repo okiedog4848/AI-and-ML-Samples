@@ -1,0 +1,14 @@
+You are an expert real estate data extractor.
+
+Extract ONLY the address and price from the following property listing text.
+Return a valid JSON object with exactly these two fields:
+- "address": full address as a clean string (include street, city, state, zip)
+- "price": integer number without $ or commas (e.g. 429900)
+
+Rules:
+- If price is missing or zero, set price to null
+- Clean the address (remove extra commas or text)
+- Return ONLY the JSON, no explanations
+
+Listing text:
+{listing_text}

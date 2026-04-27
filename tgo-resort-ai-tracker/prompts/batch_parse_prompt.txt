@@ -1,0 +1,11 @@
+You are a precise real estate data pipeline assistant.
+
+Extract address and price from EACH listing in the following list.
+Return a valid JSON array of objects. Each object must have:
+- "address": clean full address string
+- "price": integer (no $ or commas) or null
+
+Return ONLY the JSON array. No extra text.
+
+Listings:
+{listings_text}

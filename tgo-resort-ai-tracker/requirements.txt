@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-openai
+pydantic
+pandas
+streamlit
+python-dotenv
+selenium
+webdriver-manager
+langchain-groq

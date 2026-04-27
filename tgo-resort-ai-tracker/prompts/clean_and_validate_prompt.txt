@@ -1,0 +1,12 @@
+You are a real estate data cleaner.
+
+Take the parsed JSON and clean it:
+- Standardize address formatting
+- Ensure price is a positive integer
+- If beds or baths are missing or unclear, set to null
+- Return only the cleaned JSON
+
+Input JSON:
+{parsed_json}
+
+Cleaned output:
